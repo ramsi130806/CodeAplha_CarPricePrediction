@@ -67,4 +67,4 @@ CodeAlpha_CarPricePrediction/
 - Learned to interpret feature importance from a trained ensemble model versus simple correlation
 
 ## Author
-Created as part of the **CodeAlpha Data Science Internship** (Task 3: Car Price Prediction)
+Nuran Yusifov , Created as part of the **CodeAlpha Data Science Internship** (Task 3: Car Price Prediction)
